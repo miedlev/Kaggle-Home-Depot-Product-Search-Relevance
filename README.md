@@ -1,7 +1,7 @@
 ### Kaggle Competition | [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance)
 
 
-### 1. My Conclusion Analysis Report - Jupyter Notebook & Lab
+### 1. My Conclusion Analysis Report - Jupyter Notebook & JupyterLab
 * [Home Depot Product Search Analysis](https://github.com/miedlev/Kaggle-Home-Depot-Product-Search-Relevance/blob/main/Homedepot-final.ipynb)
 
 
